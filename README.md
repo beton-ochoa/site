@@ -19,35 +19,37 @@
 
 <h3>Robust Surgical Tool Segmentation, Tracking and Depth Perception</h3>
 
-In collaboration with Dr. Sharib Ali from the Department of Engineering Science, Institute of Biomedical Engineering of the University of Oxford (United Kingdom)
+In collaboration with **Dr. Sharib Ali** from the Department of Engineering Science, **Institute of Biomedical Engineering** of the **University of Oxford** (United Kingdom)
 
-Goal: To develop new datasets, schemes and models for implement robust and real-time computer vision methods for Computer Integrated Surgery (CIS) applications and procedural quality assessment purposes
+**Goal:** To develop new datasets, schemes and models for implement robust and real-time computer vision methods for Computer Integrated Surgery (CIS) applications and procedural quality assessment purposes
 
 <h3> RECONDITE:  Deep learning and image analysis methods for improving the endoscopic identification of kidney stones composition </h3> 
 
-In collaboration with Prof. Christian Daul the Centre de Recherche en Automatique de Nancy, CRAN (France) and the Institut National de la Santé et de la Recherche Medicale (INSERM)
-Goal: To investigate deep learning algorithms for automatically classifying in vivo kidney stones from endoscopy images
+In collaboration with **Prof. Christian Daul** the **Centre de Recherche en Automatique de Nancy, CRAN (France)** and the Institut National de la Santé et de la Recherche Medicale (INSERM)
+**Goal:** To investigate deep learning algorithms for automatically classifying in vivo kidney stones from endoscopy images
 
 <h3> PROTEUS: Endoscopic 3D View Enhancement and Automatic Categorization of Gastro-Intestinal Inflammations from Endoscopic data </h3>
-In collaboration with Prof. Christian Daul the Centre de Recherche en Automatique de Nancy (CRAN) and the Hotpital Ambroise-Paré (Paris)
-Goal : Real-time 3D organ reconstruction from epithelial surfaces, such as those found in the esophagus, stomach and colon. To explore DL-based SLAM for obtaining fine-grained organ atlas for cancer diagnosis and to combine it with methods for automatically categorizing lesions or pre-cancerous areas from endoscopic procedures
+
+In collaboration with **Prof. Christian Daul** the **Centre de Recherche en Automatique de Nancy (CRAN)** and the **Hopital Ambroise-Paré** (Paris)
+
+**Goal:** Real-time 3D organ reconstruction from epithelial surfaces, such as those found in the esophagus, stomach and colon. To explore DL-based SLAM for obtaining fine-grained organ atlas for cancer diagnosis and to combine it with methods for automatically categorizing lesions or pre-cancerous areas from endoscopic procedures
 
 <h3> ISOLATE: SegmentatIon and claSsification Of vascuLar pATtern symmEtries on cerebral vessels using DL </h3>
 
-In collaboration with Dr. Christian Mata and Prof. Enrique Benitez from the Biomedical Engineering Research Center (CREB, Barcelona) of the Universitat Politecnica de Catalunya (Spain) and the Hospital Sant Joan de Deu (Barcelona)
+In collaboration with **Dr. Christian Mata** and **Prof. Enrique Benitez** from the **Biomedical Engineering Research Center** (CREB, Barcelona) of the **Universitat Politecnica de Catalunya** (Spain) and the Hospital Sant Joan de Deu (Barcelona)
 	    Goal: To develop novel CADx tools for aiding physicians in the diagnosis of CP.
 Various algorithms for vessel segmentation and skeletonization have been explored and tested. The results of these preprocessing methods are to be used for classifying vascular pattern asymmetries
 
 <h3>Watch: Wildfire Analysis Through Computer vision tecHniques</h3>
-A collaborative project for early wildfire dentification and ffire widespread forecasting. A collaboration with several Mexican universities and the Universitá di Corsica (France) with Prof. Lucile Rossi from Laboratoire Sciences Pour l’Environnement 
+A collaborative project for early wildfire dentification and fire widespread forecasting. A collaboration with several Mexican universities and the Universitá di Corsica (France) with **Prof. Lucile Rossi** from **Laboratoire Sciences Pour l’Environnement** 
 
-Goal: To investigate novel drone-IoT model for detecting, monitoring and spread forecasting of fires using computer vision
+**Goal:** To investigate novel drone-IoT model for detecting, monitoring and spread forecasting of fires using computer vision
 
 <h3> MEANING MEtric And maNIfold learNinG </h3>
 
 A collaboration with CINVESTAV Guadalajara with Prof. Andres Mendez-Vazquez group.
 
-Goal: To investigate novel methods for deep metric learning, and related areas such as few-shot learning (FSL), OOD generalization, neural network dissection and explainability.
+**Goal:** To investigate novel methods for deep metric learning, and related areas such as few-shot learning (FSL), OOD generalization, neural network dissection and explainability.
 
 <h2>Additional Information </h2>
 There are available positions (bachelor, master and PhD) for all these projects via CONACYT and other grants for suitable candidates (contact me for further details). International mobility is strongly encouraged and double diplomas are possible. 
