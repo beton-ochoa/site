@@ -1,4 +1,5 @@
-Nombre Completo: Gilberto Ochoa Ruiz
+
+Gilberto Ochoa Ruiz
 Correo electrónico: gilberto.ochoa@tec.mx
 Departamento: Computer Science -  Machine Learning Research Group
 Biografía: Gilberto Ochoa Ruiz is a researcher in Computer Vision, Machine Learning and Internet of Things. He has participated as associated researcher and lecturer in several programs accredited by the CONACYT PNPC program, geared around Computer Science and Communication and Information Technologies. He is member of the Sistema Nacional de Investigadores (SNI, Rank I) and of the CONACYT Network on Applied Computational Network (RedICA), the Mexican Societies of IA (SMIA) and Computer Sc. (AMEXCOMP), as well as the Latinx in AI (LXAI) Coalition. He as served as reviewer for ICLR, ICML, CVPR and IJCNN and as general chair of the Latinx in Computer Vision Workshops at CVPR and ICCV and as part of the organization or technical program committees of these efforts, as well as other conferences.
