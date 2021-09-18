@@ -40,7 +40,7 @@ Gerardo Rodriguez Hernandez, CIATEQ, Mexico
 
 [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
 
-Lina Maria Aguilar Lobo, Universidad Autonoma de Guadalajara 
+Lina Maria Aguilar Lobo, Universidad Autonoma de Guadalajara, Mexico 
 
 <h2>Research Projects</h2> 
 
