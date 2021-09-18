@@ -22,6 +22,18 @@ His research interests are focused on investigating and implementing novel algor
  There are available positions (bachelor, master and PhD) for all these projects via **CONACYT** (Mexican Council for Science and Technology) and other grants for suitable candidates (contact me for further details). International mobility is strongly encouraged and double diplomas are possible. 
 I strongly advice any prospect students to show qualifications in machine deep learning if possible. Showing evidence of previous projects (thesis, articles, GitHub) or qualifications from Coursera (Deep Learning and/or Artificial Intelligence for Medicine) is highly desired.
 
+<h2>Collaborators </h2>
+
+Gerardo Rodriguez Hernandez, CIATEQ, Mexico
+[Miguel Gonazalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
+[Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
+[Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
+[Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr), Centre de Recherche en Automatique de Nancy, France
+[Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en), University of Oxford, United Kingdon
+[Ashutosh Natraj](https://scholar.google.com/citations?user=vuQtqtoAAAAJ&hl=en), Vidrona LTD, United Kingdom
+[Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
+Lina Maria Aguilar Lobo, 
+
 <h2>Research Projects</h2> 
 
 <p>He is currently involved in the following projects related with medical Imaging and digital pathology, win which we are interested in developing new image medical analysis and processing methods, but also machine learning models to facilitate the diagnosis of various diseases. We are also actively exploring the development of interpretability and explainability tools for deep learning models.</p> 
@@ -68,17 +80,19 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  
  **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception
   
- **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine
+ **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine [Github Rep](https://github.com/DanielF29)
  
- **Jorge Zapata**, GEMINI: Guided Metric Learning
+ **Jorge Zapata**, GEMINI: Guided Metric Learning [GitHub Rep]
  
  **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques
  
+ **Ivan Reyes Amezcua**, [Github Rep](https://github.com/Ivanrs297)
+ 
  <h2>Master</h2>
  
- **Jorge Francisco Ciprian Sanchez**, Deep Learning model for early wildfire detection through the fusion of visible and infrared information
+ **Jorge Francisco Ciprian Sanchez**, Deep Learning model for early wildfire detection through the fusion of visible and infrared information [GitHub Rep](https://github.com/JorgeFCS)
  
- **Carmina Perez Guerrero**, Characterization of Jet Fire Flame Temperature Zones Using a DeepLearning-based Segmentation Approach
+ **Carmina Perez Guerrero**, Characterization of Jet Fire Flame Temperature Zones Using a DeepLearning-based Segmentation Approach [GitHub Rep](https://github.com/CarminaP)
  
  **Daniela Herrera Montes de Oca**, Automatic segmentation and classification of vascular pattern symmetries on  cerebral vessels using DL
  
@@ -87,6 +101,8 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  **Carlos Axel Garcia Vega**, Deep Learning Lightinhg Enhancement for Endoscopic Computer Integrated Surgery
  
  **Juan Carlos Angeles Ceron**, Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures
+ 
+ **Mauricio Mendez Ruiz**, Model Extensions for Semantic Segmentation using Few-Shot Learning Approach
   
  
 
