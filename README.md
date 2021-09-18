@@ -103,6 +103,8 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  **Juan Carlos Angeles Ceron**, Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures
  
  **Mauricio Mendez Ruiz**, Model Extensions for Semantic Segmentation using Few-Shot Learning Approach
+ 
+ **Oscar Hinojosa**, Automated classification method for ureteroscopic kidney stone images using machine learning [GitHub Rep](https://github.com/oscar09)
   
  
 
