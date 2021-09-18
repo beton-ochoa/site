@@ -64,8 +64,7 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  <h3>PhD</h3>
  
  **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception
- 
- 
+  
  **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine
  
  **Jorge Zapata**, GEMINI: Guided Metric Learning
