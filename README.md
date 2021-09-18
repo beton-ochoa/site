@@ -25,14 +25,22 @@ I strongly advice any prospect students to show qualifications in machine deep l
 <h2>Collaborators </h2>
 
 Gerardo Rodriguez Hernandez, CIATEQ, Mexico
+
 [Miguel Gonazalez Mendoza](https://scholar.google.com/citations?user=ggU9-8IAAAAJ&hl=en), Tecnologico de Monterrey, Mexico
+
 [Andres Mendez Vazquez](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5), CINVESTAV, Mexico
+
 [Christian Mata Miquel](https://scholar.google.com/citations?user=PXBkuoIAAAAJ&hl=ca), Universitat Politecnica de Catalunya
+
 [Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr), Centre de Recherche en Automatique de Nancy, France
+
 [Sharib Ali](https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en), University of Oxford, United Kingdon
+
 [Ashutosh Natraj](https://scholar.google.com/citations?user=vuQtqtoAAAAJ&hl=en), Vidrona LTD, United Kingdom
+
 [Lucile Rossi](https://scholar.google.com/citations?user=KTuyZzEAAAAJ&hl=fr), Universita di Corsica, France
-Lina Maria Aguilar Lobo, 
+
+Lina Maria Aguilar Lobo, Universidad Autonoma de Guadalajara 
 
 <h2>Research Projects</h2> 
 
