@@ -1,10 +1,8 @@
 
-<h1>Gilberto Ochoa Ruiz</h1>
+<h1>Dr. Gilberto Ochoa Ruiz</h1>
 <p>email: gilberto(dot)ochoa(at)tec(dot)mx</p>
-<p> Computer Science -  Machine Learning Research Group</p>
+<p> Teecologico de Monterrey, Computer Science Department -  Machine Learning Research Group</p>
 <p> General Chair Latinx in Computer Vision at CVPR and ICCV </p>
-
-
 
 <h2>Bio</h2>
 
@@ -60,6 +58,33 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  A collaboration with CINVESTAV Guadalajara with [**Prof. Andres Mendez-Vazquez**](https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=5)  group.
 
  **Goal:** To investigate novel methods for deep metric learning, and related areas such as few-shot learning (FSL), OOD generalization, neural network dissection and explainability.
+ 
+ <h2>Students</h2>
+
+ <h3>PhD</h3>
+ 
+ **Mansor Ali Teevno**, Robust Surgical Tool Segmentation, Tracking and Depth Perception
+ 
+ 
+ **Daniel Flores Ariza**, Integrating causality in the interpretability of artificial intelligence models applied to medicine
+ 
+ **Jorge Zapata**, GEMINI: Guided Metric Learning
+ 
+ <h2>Master</h2>
+ 
+ **Jorge Francisco Ciprian Sanchez**, Deep Learning model for early wildfire detection through the fusion of visible and infrared information
+ 
+ **Carmina Perez Guerrero**, Characterization of Jet Fire Flame Temperature Zones Using a DeepLearning-based Segmentation Approach
+ 
+ **Daniela Herrera Montes de Oca**, Automatic segmentation and classification of vascular pattern symmetries on  cerebral vessels using DL
+ 
+ **Pedro Esteban Chavarrias Solano**, Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning
+ 
+ **Carlos Axel Garcia Vega**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques
+ 
+ **Juan Carlos Angeles Ceron**, Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures
+  
+ 
 
 
 
