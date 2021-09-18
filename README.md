@@ -72,6 +72,8 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  
  **Jorge Zapata**, GEMINI: Guided Metric Learning
  
+ **Ricardo Abel Espinosa Loera**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques
+ 
  <h2>Master</h2>
  
  **Jorge Francisco Ciprian Sanchez**, Deep Learning model for early wildfire detection through the fusion of visible and infrared information
@@ -82,7 +84,7 @@ In collaboration with [**Dr. Christian Mata**](https://scholar.google.com/citati
  
  **Pedro Esteban Chavarrias Solano**, Automatic Categorization of Gastro-Intestinal Inflammations using Deep Learning
  
- **Carlos Axel Garcia Vega**, Endoscopic View Enhancement using Deep Learning-based 3D Reconstruction Techniques
+ **Carlos Axel Garcia Vega**, Deep Learning Lightinhg Enhancement for Endoscopic Computer Integrated Surgery
  
  **Juan Carlos Angeles Ceron**, Attention YOLACT++: Achieving robust and real-time medicalinstrument segmentation in endoscopic procedures
   
