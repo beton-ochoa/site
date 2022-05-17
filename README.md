@@ -1,5 +1,5 @@
 
-<h1>Dr. Gilberto Ochoa Ruiz</h1>
+<h1>Dr. Gilberto Ochoa-Ruiz</h1>
 <p>email: gilberto(dot)ochoa(at)tec(dot)mx</p>
 <p> Official website: http://research.tec.mx/vivo-tec/display/PID_334436 </p>
 <p> Tecnologico de Monterrey, Computer Science Department -  Machine Learning Research Group</p>
